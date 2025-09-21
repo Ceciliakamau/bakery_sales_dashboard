@@ -3,7 +3,7 @@
 An **interactive dashboard** built with **Python, Streamlit, Pandas, 
 and Plotly** to explore bakery sales data.  
 This project demonstrates **data cleaning, visualization, and 
-dashboard building** — perfect for showcasing data science skills.
+dashboard building**.
 
 ---
 
